@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fec63ab6.css",
+    "main.js": "/static/js/main.2db1dd12.js",
+    "static/media/car-three.svg": "/static/media/car-three.97d16a33ea32860f81e114cf307132fe.svg",
+    "static/media/car-one.svg": "/static/media/car-one.66b24d6a62cb32b01dd01e28c0a7aea1.svg",
+    "static/media/car-two.svg": "/static/media/car-two.2d5e64223a9ff228bc661f6fe0d7bdd4.svg",
+    "static/media/logo.svg": "/static/media/logo.800bca75763583380558f48f636d8db9.svg",
+    "static/media/bus-icon.svg": "/static/media/bus-icon.e0bfaf7830b6a9a1da0d9f6a09e1ce80.svg",
+    "static/media/bookmark-icon.svg": "/static/media/bookmark-icon.f986dd1c27ec3c97d8f0c6cb799634d6.svg",
+    "static/media/chat-icon.svg": "/static/media/chat-icon.01ebb169d1d3242910c82e660e485481.svg",
+    "static/media/location-icon.svg": "/static/media/location-icon.8fa603907ce8e90786886abd0273f1a0.svg",
+    "static/media/payment-icon.svg": "/static/media/payment-icon.b846f95e522c9165a16259e46d05fa8c.svg",
+    "static/media/pricing-card-car.svg": "/static/media/pricing-card-car.c5eb93090237d1cd6a17cdc5520f37c4.svg",
+    "static/media/calendar-icon.svg": "/static/media/calendar-icon.d321a07b2be1914eda9d25ae30bbb4e8.svg",
+    "static/media/user-icon.svg": "/static/media/user-icon.21c4a7d4c6e92b1ff6239918624d600c.svg",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.fdabbbd376f3991021d6d069a63b82f6.svg",
+    "static/media/twitter-icon.svg": "/static/media/twitter-icon.c1d83cf6575234027522ff7e6b2b8b50.svg",
+    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.283b029d6dbf8112960cd230a6b4f4b6.svg",
+    "index.html": "/index.html",
+    "static/media/hero-pattern-right.svg": "/static/media/hero-pattern-right.e1f89180e19aa31417882a8b9ee42e54.svg",
+    "static/media/process.svg": "/static/media/process.636635630cd25516e309a8c0556943f7.svg",
+    "static/media/process-vertical.svg": "/static/media/process-vertical.74a7f8cfdea5b8e61fdc3e15677537d6.svg",
+    "static/media/facebook-icon.svg": "/static/media/facebook-icon.a959040a24e82192c6e01c75fa2baab3.svg",
+    "static/media/contact-pattern.svg": "/static/media/contact-pattern.d1e5ecac86bb26827df8c249dc83215d.svg",
+    "static/media/hero-pattern-left.svg": "/static/media/hero-pattern-left.3921b6355032e34965a772f5b862a354.svg",
+    "static/media/quote-icon.svg": "/static/media/quote-icon.6e3f387d90198f7d7b119d2c4827ae67.svg",
+    "main.fec63ab6.css.map": "/static/css/main.fec63ab6.css.map",
+    "main.2db1dd12.js.map": "/static/js/main.2db1dd12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec63ab6.css",
+    "static/js/main.2db1dd12.js"
+  ]
+}
