@@ -24,7 +24,7 @@ function App() {
          <Pricing />
          <Services />
          <FAQ />
-         {/* <Posts /> */}
+         <Posts />
          {/* <Contact /> */}
          {/* <Footer /> */}
       </>
