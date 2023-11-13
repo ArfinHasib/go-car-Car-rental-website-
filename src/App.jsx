@@ -20,7 +20,7 @@ function App() {
          <Hero />
          <RentingProcess />
          <CarsForRental />
-         {/* <Testimonials /> */}
+         <Testimonials />
          {/* <Pricing /> */}
          {/* <Services /> */}
          {/* <FAQ /> */}
