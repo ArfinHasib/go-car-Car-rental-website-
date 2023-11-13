@@ -88,7 +88,7 @@ const PricingCard = ({ special, headText, plan }) => {
          ) : (
             <img
                src={carImg}
-               alt='car'
+               alt='casr'
                className='absolute right-0 bottom-12'
             />
          )}
